@@ -5,8 +5,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sakshikhachane.sakshikhachane)
 [![Visits Badge](https://badges.pufler.dev/visits/sakshikhachane/sakshikhachane)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/sakshikhachane)](https://badges.pufler.dev)
-<p class= "text-monospace"> I am a final year student pursuing computer engineering from Cummins College of Engineering for Women. I am having ineters <br>
-I am placed in Citi bank as a technology analyst.Currently working, learning and growing my skillset in frontend development, competitive coding, data structures and algorithms. </p>
+<p class= "text-monospace"> I am a final year student pursuing computer engineering from Cummins College of Engineering for Women. I am having interest <br>
+I am placed in Citi bank as a technology analyst. Currently working, learning and growing my skillset in frontend development, competitive coding, data structures and algorithms. </p>
 
 __________________________________________________________________________________________________________________________________________________________________
 
