@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 
 ### My Github stats -
-![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshikhachane&hide=contribs,prs&theme=radical)
+
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshikhachane&count_private=true&theme=radical)
 
 
