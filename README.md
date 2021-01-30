@@ -5,9 +5,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sakshikhachane.sakshikhachane)
 [![Visits Badge](https://badges.pufler.dev/visits/sakshikhachane/sakshikhachane)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/sakshikhachane)](https://badges.pufler.dev)
-<p class= "text-monospace"> I am a final year student pursuing computer engineering from Cummins College of Engineering for Women.<br>
+<p class= "text-monospace"> 
 Currently working, learning and growing my skillset in frontend development, competitive coding, data structures and algorithms. </p>
-<p>My motto is to learn by doing!!</p>
 
 __________________________________________________________________________________________________________________________________________________________________
 
@@ -27,8 +26,6 @@ ________________________________________________________________________________
 ### My Github stats -
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshikhachane&count_private=true&theme=radical)
 
-### Languages used - 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sakshikhachane&show_icons=true&&theme=radical)
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sakshi-khachane-275aa2153/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sakshi.khachane/) 
