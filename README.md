@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sakshikhachane.sakshikhachane)
-[![Repos Badge](https://badges.pufler.dev/repos/sakshikhachane)](https://badges.pufler.dev
+[![Repos Badge](https://badges.pufler.dev/repos/sakshikhachane)](https://badges.pufler.dev)
 
 __________________________________________________________________________________________________________________________________________________________________
 
